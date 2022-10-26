@@ -18,4 +18,4 @@
 ---
 This project is been hosted on netlify. [Live Project Link](https://vocal-sherbet-ac5716.netlify.app)
 
-![LOW HOME PAGE](/Monstera.png)
+![MONSTERA](/Monstera.png)
