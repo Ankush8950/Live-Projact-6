@@ -12,7 +12,7 @@
 
 ---
 # Time to Complete project
-> around 2 to 3  hours completing project.
+> around 4 to 5 hours completing project.
 ---
 ## 🚀  Project Live Link <br>
 ---
